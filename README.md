@@ -1,8 +1,8 @@
-# Caroline Fox - Aspring Software Engineer 👩🏻
+# 👩🏻 Caroline Fox - Aspring Software Engineer
 
 ### As an aspiring software engineer and current student, I bring a blend of skills honed through a working background in recruitment, sales, and general management. Eagerly navigating a career change, I am leveraging my previously acquired skills and experiences to transition into the field of software development.
 
-# My recent projects:
+# 👩🏻‍💻 My recent projects:
 * Task Manager
 * Holiday Cost Calculator
 * Email Simulator
