@@ -11,6 +11,7 @@
 * Job Search Application
 * Matching Cards Game
 
-* 📫 caroline.fox29@outlook.com
+# 📫 How to reach me:
+* 💻 caroline.fox29@outlook.com
 * 🗣️ https://www.linkedin.com/in/caroline-mk-fox/
 
