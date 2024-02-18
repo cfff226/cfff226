@@ -1,16 +1,16 @@
-### Hi there 👋
+# Caroline Fox - Aspring Software Engineer 👩🏻
 
-<!--
-**cfff226/cfff226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### As an aspiring software engineer and current student, I bring a blend of skills honed through a working background in recruitment, sales, and general management. Eagerly navigating a career change, I am leveraging my previously acquired skills and experiences to transition into the field of software development.
 
-Here are some ideas to get you started:
+# My recent projects:
+* Task Manager
+* Holiday Cost Calculator
+* Email Simulator
+* Pet Store
+* Simple Scribe
+* Job Search Application
+* Matching Cards Game
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📫 caroline.fox29@outlook.com
+* 🗣️ https://www.linkedin.com/in/caroline-mk-fox/
+
